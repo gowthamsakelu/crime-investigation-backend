@@ -4,7 +4,7 @@ A RESTful API built using **FastAPI** and **SQLite** for managing criminal inves
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 * Create a new criminal case
 * Retrieve case details
